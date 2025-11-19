@@ -103,7 +103,7 @@ const skills = {
     { name: "Jenkins", value: 90 },
     { name: "Docker", value: 75 },
     { name: "Kubernetes", value: 85 },
-    { name: "Terraform, value: 65 },
+    { name: "Terraform", value: 65 },
     { name: "GitHub", value: 90 },
     { name: "BASH", value: 65 },
     { name: "Ansible", value: 55 },
